@@ -19,7 +19,7 @@ A Python tool that crawls websites to extract email addresses from web pages. It
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone "https://github.com/SanjanaMadhyastha/Email-Crawler"
    cd email-crawler
    ```
 
