@@ -12,7 +12,7 @@ A Python tool that crawls websites to extract email addresses from web pages. It
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.12
 - Required packages (see Installation)
 
 ## Installation
